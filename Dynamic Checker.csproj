@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Authors>Muhammad Ali</Authors>
+    <Description>Use: 
+1. Case InSensitive
+2. Is property exist in dynamic json</Description>
+    <Copyright>Muhammad Ali</Copyright>
+    <PackageId>DynoFlex</PackageId>
+    <Product>DynoFlex</Product>
+    <IncludeSymbols>False</IncludeSymbols>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>dynamic, dynamic property checker, dynamic case insensitive, DynoFlex </PackageTags>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
