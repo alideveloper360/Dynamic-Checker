@@ -1,4 +1,4 @@
-# CaseInsensitiveDynamic
+# Dynamic Helper
 
 ## Overview
 The `CaseInsensitiveDynamic` class is a custom implementation of `DynamicObject` in C#. It allows for case-insensitive property access on an underlying object. This class is useful when you need to access properties dynamically without being case-sensitive.
